@@ -1,2 +1,2 @@
-# itifoundation-website
+# itifoundation.in
 A Website I created for an NGO
